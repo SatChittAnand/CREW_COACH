@@ -49,7 +49,7 @@ crew\_coach/
 2. Run the script:
    ```bash
    python main.py
-````
+
 
 3. The agents collaboratively analyze and return:
 
@@ -147,9 +147,4 @@ For queries or collaboration:
 * 📧 [Email](mailto:satyanarayanmohanty177@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/satyanarayan-mohanty-9a8466311/)
 
-- Converted into `requirements.txt`
-- Auto-pulled resume from `.pdf`
-- Packed as a web app using Streamlit or Gradio
 
-I can generate those instantly.
-```
