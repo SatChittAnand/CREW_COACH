@@ -94,6 +94,8 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ---
 
 ## 📦 Example Output
+<img width="1459" height="954" alt="Screenshot 2025-07-29 104839" src="https://github.com/user-attachments/assets/5ee24df6-1d4f-4943-a5a0-0e4253ef9d26" />
+<img width="1436" height="968" alt="Screenshot 2025-07-29 104906" src="https://github.com/user-attachments/assets/05140399-bcb7-47d5-b3d6-bd9219745980" />
 
 ```
 🧠 Final Recommendation:
